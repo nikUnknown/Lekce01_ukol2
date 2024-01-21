@@ -15,7 +15,6 @@ Na základě zadaných údajů vypiš v metodě main na obrazovku průměrné mn
 mrkve na jednu smlouvu.
 */
 
-import java.math.BigDecimal;
 import java.time.LocalDate;
 
 public class Main {
